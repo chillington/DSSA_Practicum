@@ -36,3 +36,5 @@ A sequential neural network was set up in Python using Keras:
 The model used a Binary Crossentropy loss function, with a learning rate of 0.01, and was run for 5000 epochs.
 
 Results were mixed but not as desired.
+
+I am currently seeking approval to make the full report available...
